@@ -1,5 +1,5 @@
 _repo: Fools-of-Fortune-or-Gambling-and-Gamblers_58280
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: McIntyre, Robert
@@ -16,12 +16,17 @@ contributor:
   - agent_name: Snyder, John
     gutenberg_agent_id: '49872'
     url: http://www.gutenberg.org/2009/agents/49872
+covers:
+- cover_type: archival
+  image_path: 58280-h/images/cover.jpg
 creator:
   author:
     agent_name: Quinn, John Philip
     gutenberg_agent_id: '49870'
     url: http://www.gutenberg.org/2009/agents/49870
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58280#Fools-of-Fortune-or-Gambling-and-Gamblers
 gutenberg_issued: '2018-11-14'
 gutenberg_type: Text
 identifiers:
