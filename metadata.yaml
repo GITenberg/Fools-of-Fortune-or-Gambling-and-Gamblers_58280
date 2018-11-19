@@ -1,0 +1,38 @@
+_repo: Fools-of-Fortune-or-Gambling-and-Gamblers_58280
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: McIntyre, Robert
+    gutenberg_agent_id: '49873'
+    url: http://www.gutenberg.org/2009/agents/49873
+  - agent_name: Swing, David
+    birthdate: 1830
+    deathdate: 1894
+    gutenberg_agent_id: '45531'
+    url: http://www.gutenberg.org/2009/agents/45531
+  - agent_name: Johnson, Charles F.
+    gutenberg_agent_id: '49871'
+    url: http://www.gutenberg.org/2009/agents/49871
+  - agent_name: Snyder, John
+    gutenberg_agent_id: '49872'
+    url: http://www.gutenberg.org/2009/agents/49872
+creator:
+  author:
+    agent_name: Quinn, John Philip
+    gutenberg_agent_id: '49870'
+    url: http://www.gutenberg.org/2009/agents/49870
+description: ''
+gutenberg_issued: '2018-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58280'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Fools of Fortune
+
+  or Gambling and Gamblers'
+url: http://www.gutenberg.org/ebooks/58280
